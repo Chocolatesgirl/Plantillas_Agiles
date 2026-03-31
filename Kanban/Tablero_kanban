@@ -1,1 +1,55 @@
+## Organización de un tablero Kanban
+
+La gestión de tareas y flujo de trabajo mediante **tableros Kanban** permite a los equipos visualizar el progreso, limitar el trabajo en curso y optimizar la entrega de valor de manera continua.
+
+---
+
+### Paso 1 — Origen de las tareas
+
+El tablero Kanban **nace a partir del Product Backlog**, que debe cumplir con los siguientes criterios:
+
+* Items priorizados según **urgencia, preferencias del usuario, complejidad técnica y valor para el negocio**
+* Cada ítem con **criterios de aceptación claros**
+* Estimación de esfuerzo y complejidad (**story points**)
+* Análisis de dependencias entre tareas
+
+---
+
+### Paso 2 — Refinamiento y planificación
+
+Antes de ingresar las tareas al tablero:
+
+* Se realiza un **refinamiento del backlog** para asegurar que cada ítem esté bien definido
+* Se revisan los criterios de aceptación con el Product Owner y el equipo
+* Se estiman los **story points** o esfuerzo relativo
+* Se analiza el **velocity del equipo**, determinando cuántos puntos de historia pueden abordarse por sprint
+
+---
+
+### Paso 3 — Configuración del tablero Kanban
+
+* Columnas típicas: **Por hacer — Desarrollo — Pruebas Unitarias — Pruebas Integradas — QA — Pruebas Usuarias — Hecho**
+* Se aplican límites de trabajo en curso (WIP) para evitar sobrecarga
+* Cada tarea incluye información clave: **descripción, responsable, prioridad, fecha de inicio, fecha de entrega esperada y story points**
+* Las tareas se mueven de columna en columna según su avance real
+
+---
+
+### Paso 4 — Seguimiento y mejora continua
+
+* Se revisa diariamente el tablero en **Daily Stand-ups**
+* Se utilizan dashboards como **Burndown Chart** para medir el progreso del trabajo
+* Se identifican bloqueos y cuellos de botella
+* Se ajusta la capacidad del equipo según el velocity observado
+* Se generan métricas de flujo como **Lead Time, Cycle Time y Throughput** para optimizar la entrega
+
+---
+
+### Resultado esperado
+
+* Visualización clara del progreso del sprint
+* Priorización efectiva de tareas según urgencia, valor de negocio y complejidad
+* Identificación temprana de bloqueos o retrasos
+* Mejora continua del flujo de trabajo y del rendimiento del equipo
+* Información cuantitativa sobre progreso mediante burndown chart y métricas de flujo
 
