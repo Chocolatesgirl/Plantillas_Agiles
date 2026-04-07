@@ -1,146 +1,211 @@
-# ⚙️ Políticas WIP (Work In Progress)
+# 🛠️ Políticas WIP — Control del Flujo en Sistema Kanban
 
 ## 🎯 Objetivo
 
-Definir límites de trabajo en curso (WIP) para optimizar el flujo de desarrollo de una:
+Definir políticas explícitas de Work In Progress (WIP) para controlar el flujo de trabajo, evitando sobrecarga del sistema y mejorando la capacidad de entrega.
 
-👉 **App de aprendizaje de inglés para niños de 3 a 8 años**
+Las políticas WIP permiten:
 
-El objetivo es:
-
-* Reducir la sobrecarga del equipo
-* Mejorar la calidad del trabajo
-* Disminuir tiempos de entrega (Cycle Time)
-* Identificar y gestionar cuellos de botella
+* Limitar el trabajo en curso
+* Reducir multitarea
+* Identificar cuellos de botella
+* Mejorar la predictibilidad del sistema
 
 ---
 
-## 🧱 Flujo de trabajo
+## 🧩 Contexto del caso
 
-```text id="zcv5m4"
-Backlog → Ready → Development → Code Review → Testing → QA → Release → Done
-```
+Equipo desarrollando una:
 
----
+👉 **Aplicación de aprendizaje de inglés para niños de 3 a 8 años**
 
-## 📊 Límites WIP definidos
+### Problema inicial
 
-| Columna     | Límite WIP | Justificación                            |
-| ----------- | ---------- | ---------------------------------------- |
-| Ready       | 5          | Mantener backlog refinado sin saturación |
-| Development | 3          | Evitar multitarea excesiva               |
-| Code Review | 2          | Garantizar calidad sin generar cuello    |
-| Testing     | 2          | Controlar acumulación de validaciones    |
-| QA          | 2          | Validación final sin retrasos            |
-
----
-
-## 🧪 Aplicación en el caso real
-
-Durante la simulación del tablero:
-
-### 🚨 Situación detectada
-
-* **Testing (2/2)** → saturado
-* **Code Review (2/2)** → al límite
-* Development seguía tomando nuevas tareas
+* Desarrollo iniciaba múltiples tareas simultáneamente
+* Testing acumulaba trabajo
+* No existía control del flujo
 
 👉 Resultado:
 
-* Aumento del Cycle Time
-* Bloqueo del flujo
-* Acumulación de trabajo
+* WIP descontrolado
+* Lead Time elevado
+* Cycle Time altamente variable
 
 ---
 
-## 🛠️ Reglas operativas
+## 🚨 Problema del sistema sin WIP
 
-### 1. 🚫 Stop Starting, Start Finishing
+Sin límites de WIP:
 
-* No se permite iniciar nuevas tareas si el WIP está lleno
-* El equipo debe enfocarse en terminar trabajo en curso
+* Se inicia más trabajo del que se termina
+* Se acumulan tareas en etapas intermedias
+* Se generan cuellos de botella
+* El flujo pierde continuidad
 
----
-
-### 2. 🔄 Gestión de bloqueos
-
-* Toda tarea bloqueada tiene prioridad
-* Se detiene el flujo hasta resolver el bloqueo
+👉 El sistema colapsa por sobrecarga.
 
 ---
 
-### 3. 🤝 Trabajo colaborativo
+## 🧠 Definición de políticas WIP
 
-* Developers apoyan Testing o QA si hay acumulación
-* Se fomenta trabajo cross-funcional
+Se establecen límites explícitos por etapa:
 
----
-
-### 4. 📉 Ajuste dinámico de WIP
-
-* Los límites pueden ajustarse según:
-
-  * Capacidad del equipo
-  * Complejidad del trabajo
-  * Métricas observadas
+| Etapa       | Límite WIP | Justificación                         |
+| ----------- | ---------- | ------------------------------------- |
+| Development | 3          | Evitar multitarea excesiva            |
+| Code Review | 2          | Mantener flujo continuo de validación |
+| Testing     | 2          | Proteger el cuello de botella         |
+| QA          | 2          | Asegurar calidad sin acumulación      |
 
 ---
 
-## 📌 Ejemplo práctico
+## ⚙️ Principios aplicados
 
-### Situación:
+### 1. Limitar inicio de trabajo
 
-Testing saturado (2/2)
-
-### Acción:
-
-* Se detiene ingreso en Development
-* Equipo apoya Testing
-* Se priorizan tareas en QA
-
-### Resultado:
-
-* Reducción del WIP
-* Flujo más estable
-* Menor tiempo de entrega
+👉 No se permite iniciar nuevas tareas si el WIP está lleno
 
 ---
 
-## 📈 Impacto en métricas
+### 2. Priorizar finalización
 
-| Métrica    | Impacto      |
-| ---------- | ------------ |
-| Cycle Time | ↓ Disminuye  |
-| Throughput | ↑ Aumenta    |
-| WIP        | ↓ Controlado |
-| Calidad    | ↑ Mejora     |
+👉 El foco cambia de “empezar” a “terminar”
+
+---
+
+### 3. Exponer problemas del sistema
+
+👉 Cuando se alcanza el WIP:
+
+* Se hace visible el cuello de botella
+* Se obliga a tomar decisiones
+
+---
+
+### 4. Flujo pull, no push
+
+👉 El trabajo se toma solo cuando hay capacidad disponible
+
+---
+
+## 🔄 Comportamiento del sistema con WIP
+
+### Situación
+
+* Testing alcanza su límite WIP
+* Development tiene capacidad disponible
+
+---
+
+### Sin política WIP
+
+* Development sigue iniciando tareas
+* Aumenta acumulación
+
+---
+
+### Con política WIP
+
+* Development detiene inicio de trabajo
+* Apoya Testing
+
+👉 Resultado:
+
+* Reducción de cuello de botella
+* Flujo más equilibrado
+
+---
+
+## 🛠️ Decisiones operativas
+
+### 1. Detener inicio de nuevas tareas
+
+Cuando WIP está lleno:
+
+* No se permite mover nuevas historias
+* Se prioriza trabajo en progreso
+
+---
+
+### 2. Gestión de bloqueos
+
+* Tareas bloqueadas tienen prioridad máxima
+* Se asignan recursos para desbloquear
+
+---
+
+### 3. Redistribución de capacidad
+
+* Developers apoyan Testing o Code Review
+* Se reduce especialización rígida
+
+---
+
+### 4. Revisión continua de límites
+
+* WIP no es fijo
+* Se ajusta según capacidad del equipo
+
+---
+
+## 📊 Impacto en métricas
+
+| Métrica    | Antes    | Después      |
+| ---------- | -------- | ------------ |
+| WIP        | Alto     | Controlado   |
+| Lead Time  | Alto     | Reducido     |
+| Cycle Time | Variable | Estable      |
+| Throughput | Bajo     | Incrementado |
+
+---
+
+## 📈 Interpretación
+
+* Menos WIP → menor tiempo de entrega
+* Flujo controlado → mayor predictibilidad
+* Menos multitarea → mayor eficiencia
+
+---
+
+## 🔗 Conexión con el sistema Kanban
+
+Las políticas WIP impactan directamente en:
+
+* 🔄 `simulacion_flujo_trabajo_jira.md` → operación del sistema
+* 📊 `metricas_flujo.md` → medición del impacto
+* 📊 `cumulative_flow_explicado.md` → visualización del flujo
+
+👉 WIP es el mecanismo central de control del sistema.
 
 ---
 
 ## 💼 Enfoque profesional
 
-El WIP no es solo un límite operativo:
+La gestión de WIP no es una regla operativa simple.
 
-👉 Es una herramienta estratégica para:
+Es una herramienta de:
 
-* Optimizar el flujo de trabajo
-* Mejorar la predictibilidad
-* Reducir desperdicio (Lean)
-* Aumentar eficiencia del equipo
+* Control del sistema
+* Gestión de capacidad
+* Toma de decisiones
+
+👉 Permite transformar equipos reactivos en sistemas predecibles.
 
 ---
 
 ## 🔥 Insight clave
 
-> No se trata de hacer más cosas…
-> sino de terminar mejor lo que ya empezamos.
+> El exceso de trabajo en progreso no acelera la entrega…
+> la ralentiza.
 
 ---
 
-## 🎯 Conclusión
+## ✅ Conclusión
 
-La correcta gestión del WIP permite transformar un flujo de trabajo:
+Las políticas WIP permiten:
 
-👉 desordenado → en un sistema eficiente, estable y predecible
+* Controlar el flujo de trabajo
+* Reducir la sobrecarga del sistema
+* Mejorar la eficiencia del equipo
 
-Asegurando la entrega continua de valor al usuario final.
+👉 Sin límites WIP, no hay Kanban efectivo.
