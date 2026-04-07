@@ -44,10 +44,10 @@ Incluye:
 
 El diseño de flujo es la base del sistema Kanban y se conecta directamente con:
 
-* `../02_Operacion_Flujo/1_simulacion_flujo_trabajo_jira.md`
-* `../02_Operacion_Flujo/2_politicas_wip.md`
-* `../03_Metricas_y_Mejora/metricas_flujo.md`
-* `../03_Metricas_y_Mejora/cumulative_flow_explicado.md`
+* `../02_operacion_flujo/1_simulacion_flujo_trabajo_jira.md`
+* `../02_operacion_flujo/2_politicas_wip.md`
+* `../03_metricas_y_mejora/metricas_flujo.md`
+* `../03_metricas_y_mejora/cumulative_flow_explicado.md`
 
 👉 El diseño define la estructura; la operación, las políticas y las métricas validan su efectividad.
 
