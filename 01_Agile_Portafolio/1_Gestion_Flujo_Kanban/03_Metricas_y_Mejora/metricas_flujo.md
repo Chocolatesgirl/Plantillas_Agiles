@@ -155,7 +155,7 @@ A partir del análisis de datos, se implementan las siguientes acciones:
 Comparación del comportamiento del sistema antes y después de aplicar mejoras.
 
 <p align="center">
-  <img src="./comparación_flujo_antes_vs_después.png" width="700">
+  <img src="./flujo_before_after.png" width="700">
 </p>
 
 ### 🔍 Análisis
