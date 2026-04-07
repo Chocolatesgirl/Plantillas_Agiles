@@ -119,6 +119,14 @@ Esto permite mostrar que Kanban no se limita a visualizar tareas, sino que funci
 
 ---
 
+## 🧭 Visualización del sistema Kanban
+
+Este esquema representa el flujo de trabajo, la gestión de capacidad y la relación con métricas de desempeño.
+
+![Flujo Kanban](./assets/flujo_kanban.png)
+
+---
+
 ## 📈 Impacto esperado
 
 La implementación de este enfoque permite generar mejoras concretas en el sistema de trabajo:
