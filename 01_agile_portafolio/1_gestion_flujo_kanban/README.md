@@ -31,7 +31,7 @@ A partir de este escenario, se modela un flujo de trabajo completo que permite v
 
 ## 📂 Estructura del módulo
 
-### 01_Diseño_Flujo
+### 01_diseño_flujo
 
 Define la estructura base del sistema.
 
@@ -48,7 +48,7 @@ Define la estructura base del sistema.
 
 ---
 
-### 02_Operacion_Flujo
+### 02_operacion_flujo
 
 Muestra cómo funciona el sistema en la práctica y cómo se controla.
 
@@ -66,7 +66,7 @@ Muestra cómo funciona el sistema en la práctica y cómo se controla.
 
 ---
 
-### 03_Metricas_y_Mejora
+### 03_metricas_y_mejora
 
 Convierte la operación en evidencia mediante análisis visual y métricas.
 
@@ -87,7 +87,7 @@ Convierte la operación en evidencia mediante análisis visual y métricas.
 
 ---
 
-### 04_Casos_Practicos
+### 04_casos_practicos
 
 Integra el sistema completo en una narrativa aplicada.
 
