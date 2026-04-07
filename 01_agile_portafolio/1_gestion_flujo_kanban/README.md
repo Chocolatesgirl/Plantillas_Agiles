@@ -121,7 +121,7 @@ Esto permite mostrar que Kanban no se limita a visualizar tareas, sino que funci
 
 ## 🧭 Visualización del sistema Kanban
 
-Este esquema representa el flujo de trabajo, la gestión de capacidad y la relación con métricas de desempeño.
+El sistema Kanban permite visualizar la demanda, gestionar el flujo y optimizar la entrega mediante métricas operativas.
 
 ![Flujo Kanban](./assets/flujo_kanban.png)
 
