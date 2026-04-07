@@ -11,6 +11,15 @@ Este repositorio reúne prácticas, métricas y casos aplicados que reflejan exp
 
 ---
 
+## ⚡ Resumen Ejecutivo
+
+- +10 años liderando iniciativas tecnológicas  
+- Experiencia en banca, telecomunicaciones y consultoría  
+- Especialización en Agile, métricas y transformación digital  
+- Enfoque en entrega de valor y mejora continua
+
+---
+
 ## 🧠 Enfoque Profesional
 
 Este portafolio está orientado a la aplicación práctica de metodologías ágiles, con foco en:
@@ -38,11 +47,30 @@ Este portafolio no presenta prácticas aisladas, sino un sistema integrado de ge
 
 ## 📂 Qué encontrarás aquí
 
-- **Kanban** → Diseño y optimización del flujo de trabajo  
-- **OKRs** → Alineación entre objetivos estratégicos y entrega de valor  
-- **Retrospectivas** → Técnicas para aprendizaje continuo y mejora del equipo  
-- **Management 3.0** → Prácticas de liderazgo, motivación y empoderamiento  
-- **Transformaciones Ágiles** → Aplicación en contextos organizacionales complejos  
+## 📂 Módulos del Portafolio
+
+### 📊 Gestión de Flujo con Kanban
+Optimización del flujo de trabajo mediante control de WIP, métricas y mejora continua.
+
+---
+
+### 🎯 Ejecución Estratégica con OKRs
+Definición y seguimiento de objetivos alineados a resultados de negocio.
+
+---
+
+### 🔄 Retrospectivas
+Mejora continua basada en aprendizaje estructurado del equipo.
+
+---
+
+### 👥 Management 3.0
+Prácticas de liderazgo para motivación, autonomía y desarrollo de equipos.
+
+---
+
+### 🚀 Transformaciones Ágiles
+Implementación de metodologías en contextos organizacionales complejos.  
 
 ---
 
@@ -98,6 +126,15 @@ Organizaciones con baja adopción ágil, equipos desalineados y resistencia al c
 - Control Chart  
 
 Estas métricas permiten evaluar desempeño, detectar cuellos de botella y mejorar la eficiencia del flujo de trabajo.
+
+---
+
+## 📈 Impacto generado
+
+- Reducción de Lead Time en equipos de desarrollo  
+- Mejora en la predictibilidad de entrega  
+- Optimización del flujo de trabajo mediante control de WIP  
+- Aumento en la eficiencia operativa de equipos
 
 ---
 
