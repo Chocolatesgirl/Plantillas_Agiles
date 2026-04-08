@@ -1,167 +1,71 @@
-# 🔄 Mejora Continua — Retrospectivas
+# ⚙️ Optimización del Desempeño de Equipos
 
 ## 🎯 Propósito
 
-Este módulo presenta el uso de **retrospectivas como herramienta de mejora continua**, enfocadas en optimizar el desempeño del equipo y la calidad del delivery.
+Este módulo presenta cómo implemento un sistema estructurado de **mejora continua orientado a desempeño**, utilizando mecanismos prácticos para identificar fricciones, optimizar el flujo de trabajo y fortalecer la efectividad del equipo.
 
-El objetivo es:
-
-* Identificar oportunidades de mejora
-* Detectar problemas en el flujo de trabajo
-* Implementar acciones correctivas
-* Fomentar una cultura de aprendizaje continuo
+El enfoque no está centrado en la facilitación de dinámicas, sino en la **toma de decisiones basada en evidencia**, alineada a objetivos de entrega y resultados de negocio.
 
 ---
 
-## 🧠 Enfoque aplicado
+## 🧠 Enfoque
 
-Las retrospectivas se utilizan como un mecanismo estructurado para:
+La mejora continua es tratada como un **sistema de optimización del trabajo**, no como un evento aislado.
 
-👉 Analizar → Aprender → Mejorar
+Se basa en:
 
-Se integran directamente con:
-
-* Kanban (flujo de trabajo)
-* Métricas (Cycle Time, WIP, Throughput)
-* Objetivos estratégicos (OKRs)
-
----
-
-## 🧩 Caso aplicado
-
-Las prácticas se aplican en el contexto de desarrollo de una:
-
-👉 **App de aprendizaje de inglés para niños de 3 a 8 años**
-
-Donde se busca:
-
-* Mejorar la experiencia del usuario
-* Reducir tiempos de entrega
-* Optimizar el flujo de trabajo del equipo
+- Identificación estructurada de problemas
+- Visualización de fricciones en el flujo
+- Participación activa del equipo en la toma de decisiones
+- Implementación de cambios concretos
+- Medición de impacto mediante métricas
 
 ---
 
-## 🧱 Componentes del módulo
+## 🔧 Mecanismos utilizados
+
+Los siguientes enfoques son utilizados como herramientas de diagnóstico y mejora:
+
+- **Start / Stop / Continue** → Optimización del flujo de trabajo
+- **Sailboat** → Identificación de riesgos y bloqueos organizacionales
+- **4L (Liked, Learned, Lacked, Longed For)** → Evaluación de desempeño y aprendizaje
+- **Métricas de retrospectiva** → Validación de impacto de las mejoras
 
 ---
 
-### 📅 1. Retrospectiva de Sprint
+## 📊 Métricas asociadas
 
-📄 `retrospectiva_sprint.md`
+La mejora continua se mide a través de:
 
-* Evaluación del sprint
-* Identificación de logros y problemas
-* Definición de acciones de mejora
-
----
-
-### 🧠 2. Retrospectiva 4Ls
-
-📄 `retrospectiva_4Ls.md`
-
-* Liked (Qué funcionó bien)
-* Learned (Qué aprendimos)
-* Lacked (Qué faltó)
-* Longed For (Qué mejorar)
-
-👉 Enfoque reflexivo y estructurado
+- Lead Time
+- Cycle Time
+- Throughput
+- Work In Progress (WIP)
+- Bloqueos recurrentes
+- Salud del equipo (engagement, participación)
 
 ---
 
-### 🔄 3. Start / Stop / Continue
+## ⚡ Impacto generado
 
-📄 `start_stop_continue.md`
+La implementación de estos mecanismos permite:
 
-* Start → Qué comenzar a hacer
-* Stop → Qué dejar de hacer
-* Continue → Qué mantener
-
-👉 Enfoque práctico y accionable
-
----
-
-### 📊 4. Métricas de mejora
-
-📄 `metricas_retro.md`
-
-* Seguimiento de acciones definidas
-* Medición del impacto en el flujo
-* Evaluación de mejoras implementadas
+- Reducción de cuellos de botella
+- Mejora en la comunicación del equipo
+- Incremento en la velocidad de entrega
+- Disminución de retrabajo
+- Mayor autonomía en la toma de decisiones
 
 ---
 
-## 🔍 Ejemplo de situación real
+## 🔗 Relación con el portafolio
 
-Durante el desarrollo:
+Este módulo conecta directamente con:
 
-### 🚨 Problema detectado
-
-* Aumento del Cycle Time
-* Acumulación en Testing
-* Bloqueos frecuentes
+- 📊 Gestión de Flujo (Kanban)
+- 🎯 Ejecución Estratégica (OKRs)
+- 🧠 Liderazgo de Equipos (Management 3.0)
 
 ---
 
-## 🛠️ Acciones definidas en retrospectiva
-
-* Reducir tamaño de historias
-* Ajustar límites WIP
-* Mejorar coordinación entre Development y Testing
-* Implementar pruebas automatizadas
-
----
-
-## 📈 Resultados obtenidos
-
-* Reducción de Cycle Time
-* Disminución de bloqueos
-* Mejora en la calidad del producto
-* Mayor estabilidad del flujo de trabajo
-
----
-
-## 📊 Impacto en el producto
-
-* Entrega más rápida de funcionalidades
-* Mejor experiencia de usuario
-* Mayor engagement en la app
-* Feedback positivo de usuarios
-
----
-
-## 🔄 Mejora continua en acción
-
-Las retrospectivas permiten:
-
-* Identificar problemas recurrentes
-* Ajustar el sistema de trabajo
-* Validar mejoras implementadas
-* Evolucionar continuamente el equipo
-
----
-
-## 💼 Enfoque profesional
-
-Este módulo refleja prácticas utilizadas en entornos reales:
-
-* Cultura de mejora continua
-* Gestión basada en datos
-* Aprendizaje organizacional
-* Optimización del delivery
-
----
-
-## 🔥 Insight clave
-
-> No se trata de evitar errores…
-> sino de aprender más rápido que ellos.
-
----
-
-## 🎯 Conclusión
-
-Las retrospectivas permiten transformar un equipo:
-
-👉 de reactivo → a adaptable, eficiente y en mejora constante
-
-Asegurando una evolución continua en la entrega de valor.
+👉 La mejora continua se posiciona como un habilitador clave para evolucionar el sistema de trabajo y sostener resultados en el tiempo.
