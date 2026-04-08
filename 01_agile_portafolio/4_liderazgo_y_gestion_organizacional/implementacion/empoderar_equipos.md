@@ -1,36 +1,35 @@
-# 🚀 Empoderar Equipos
+# 🚀 Empoderamiento de Equipos
 
-## 📌 Enfoque
+## 🎯 Objetivo
 
-Se promueve la autonomía del equipo en la toma de decisiones, reduciendo la dependencia del liderazgo y fortaleciendo la autoorganización.
-
----
-
-## ⚙️ Estrategias aplicadas
-
-- Delegación de decisiones técnicas y de flujo de trabajo
-- Definición clara de niveles de delegación
-- Espacios de confianza (Coffee Time)
+Aumentar la autonomía del equipo para mejorar velocidad de entrega y calidad en decisiones.
 
 ---
 
-## 🧪 Prácticas utilizadas
+## ⚠️ Problema
 
-- Delegation Poker
-- Dinámicas colaborativas de decisión
-- Feedback continuo
+Equipos con dependencia del liderazgo:
 
----
-
-## 📊 Indicadores de impacto
-
-- Nivel de autonomía del equipo
-- Reducción de bloqueos
-- Velocidad de toma de decisiones
-- Disminución de escalamiento al líder
+- Retrasos en decisiones
+- Baja proactividad
+- Bloqueos constantes
 
 ---
 
-## 💡 Resultado
+## 🧠 Decisión
 
-Equipos capaces de tomar decisiones de forma autónoma, alineados al contexto del negocio.
+Se delegaron decisiones técnicas al equipo, manteniendo alineación con objetivos estratégicos.
+
+---
+
+## 📊 Impacto
+
+- Reducción de tiempos de respuesta
+- Mayor ownership del equipo
+- Mejora en calidad técnica
+
+---
+
+## 🚀 Resultado
+
+El equipo operó con mayor autonomía sin perder alineación organizacional.
