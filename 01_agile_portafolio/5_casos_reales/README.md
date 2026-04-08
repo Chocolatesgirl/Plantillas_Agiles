@@ -77,7 +77,7 @@ Habilitar una plataforma para operar en mercados internacionales.
 A través de estos casos se evidencia experiencia en:
 
 - Transformación ágil organizacional
-- Implementación de frameworks (Scrum, SAFe)
+- Implementación de modelos de ejecución (Scrum, SAFe adaptado)
 - Gestión de stakeholders
 - Mejora continua basada en métricas
 - Liderazgo de equipos TI multidisciplinarios
