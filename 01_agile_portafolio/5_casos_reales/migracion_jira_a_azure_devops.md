@@ -60,6 +60,8 @@ Se decidió migrar hacia **Azure DevOps** como plataforma unificada para:
 - Mejora en eficiencia operativa del equipo
 - Mayor velocidad en despliegues
 
+👉 Estas mejoras permitieron no solo optimizar el sistema de trabajo, sino también generar impacto directo en resultados de negocio.
+
 ---
 
 ## 🚀 Resultado
