@@ -78,3 +78,13 @@ La correcta implementación de OKRs permite:
 - Mejorar la visibilidad del avance
 - Detectar desviaciones de forma temprana
 - Facilitar la toma de decisiones en contextos complejos
+
+---
+
+---
+
+## 🔗 Conexión
+
+Este módulo permite alinear el trabajo del equipo con objetivos estratégicos, asegurando foco en resultados y priorización basada en valor.
+
+👉 El siguiente paso es optimizar el desempeño del equipo para ejecutar estos objetivos de manera eficiente, lo que se aborda en el módulo de **Optimización del Desempeño de Equipos**.
