@@ -81,6 +81,13 @@ Se priorizó una implementación progresiva para facilitar la adopción.
 - Incremento en la predictibilidad de entrega (~20–30%) mediante planificación iterativa
 - Alineación entre negocio y tecnología a través de priorización basada en valor
 
+📊 Impacto en negocio:
+
+- Reducción de time-to-market (~20%)
+- Mejora en experiencia de usuario
+- Disminución de costos operativos
+- Incremento en eficiencia del equipo
+
 ---
 
 ## 🚀 Resultado
