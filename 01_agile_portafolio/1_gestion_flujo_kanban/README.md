@@ -140,6 +140,14 @@ La implementación de este enfoque permite generar mejoras concretas en el siste
 
 ---
 
+## 🔗 Conexión
+
+Este módulo permite entender el sistema de trabajo.
+
+👉 El siguiente paso es alinear este flujo con objetivos estratégicos (OKRs)
+
+---
+
 ## 🎯 Conexión con ejecución estratégica (OKRs)
 
 El sistema Kanban no opera de forma aislada, sino como mecanismo de ejecución de iniciativas definidas a nivel estratégico.
@@ -184,3 +192,5 @@ El foco está en la gestión del sistema de trabajo, la toma de decisiones basad
 Este módulo muestra cómo estructurar y gestionar un sistema Kanban de manera profesional, conectando diseño, operación, métricas y mejora continua.
 
 👉 El resultado no es solo un tablero más ordenado, sino un sistema más estable, medible y orientado a la entrega de valor.
+
+---
