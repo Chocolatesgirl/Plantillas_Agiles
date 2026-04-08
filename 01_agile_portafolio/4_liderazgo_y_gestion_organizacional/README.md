@@ -18,6 +18,8 @@ El liderazgo se aborda como un sistema integrado que combina:
 - Medición de desempeño
 - Aprendizaje continuo
 
+![Modelo de liderazgo](../assets/modelo_liderazgo.png)
+
 ---
 
 ## 🧩 Estructura del módulo
