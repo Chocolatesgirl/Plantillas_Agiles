@@ -123,7 +123,9 @@ Esto permite mostrar que Kanban no se limita a visualizar tareas, sino que funci
 
 El sistema Kanban permite visualizar la demanda, gestionar el flujo y optimizar la entrega mediante métricas operativas.
 
-![Flujo Kanban](./assets/flujo_kanban.png)
+Esta visualización representa el flujo de trabajo end-to-end, incluyendo gestión de WIP y detección de bloqueos.
+
+![Flujo Kanban](../assets/flujo_kanban.png)
 
 ---
 
@@ -145,24 +147,6 @@ La implementación de este enfoque permite generar mejoras concretas en el siste
 Este módulo permite entender y optimizar el sistema de trabajo desde la perspectiva de flujo, identificando cuellos de botella y mejorando la eficiencia operativa.
 
 👉 El siguiente paso es alinear este flujo con objetivos estratégicos, lo que se aborda en el módulo de **Ejecución Estratégica con OKRs**.
-
----
-
-## 🎯 Conexión con ejecución estratégica (OKRs)
-
-El sistema Kanban no opera de forma aislada, sino como mecanismo de ejecución de iniciativas definidas a nivel estratégico.
-
-Los OKRs establecen los objetivos y resultados esperados, mientras que Kanban permite gestionar el flujo de trabajo necesario para alcanzarlos.
-
-Esta integración permite:
-
-- Alinear el trabajo operativo con objetivos de negocio
-- Priorizar iniciativas según impacto en resultados clave
-- Visualizar el progreso hacia objetivos estratégicos
-- Detectar cuellos de botella que afectan el logro de resultados
-- Tomar decisiones basadas en métricas de flujo
-
-👉 De esta forma, Kanban no solo optimiza la operación, sino que actúa como habilitador de la ejecución estratégica.
 
 ---
 
