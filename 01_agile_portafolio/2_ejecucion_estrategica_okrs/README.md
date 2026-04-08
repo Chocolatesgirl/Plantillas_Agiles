@@ -83,6 +83,8 @@ La correcta implementación de OKRs permite:
 
 ---
 
+---
+
 ## 🔗 Conexión
 
 Este módulo permite alinear el trabajo del equipo con objetivos estratégicos, asegurando foco en resultados y priorización basada en valor.
