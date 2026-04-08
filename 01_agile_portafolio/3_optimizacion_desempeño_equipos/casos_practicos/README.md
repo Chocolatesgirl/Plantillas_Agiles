@@ -66,4 +66,4 @@ A través de la mejora continua basada en métricas, se identifican fricciones, 
 
 👉 El siguiente paso es escalar este enfoque a nivel organizacional, lo que se aborda en el módulo de **Liderazgo y Gestión Organizacional**.
 
-👉 La mejora continua se posiciona como un habilitador clave para evolucionar el sistema de trabajo y sostener resultados en el tiempo.
+👉 La mejora continua permite sostener y escalar el desempeño del equipo de manera consistente.
